@@ -1,0 +1,111 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:10] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Данные не загружены
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:12] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:15] "GET /post HTTP/1.1" 200 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:31] "GET /search?s=cargo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:44] "GET /search?s=карго HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:58] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:07:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:11] "GET /search?s=карго HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:27] "GET /search?s=Cargo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:08:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:09:15] "GET /search?s=корги HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:09:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:09:15] "[36mGET /uploads/images/Corgi.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:34] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:51] "GET /search?s=карги HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:10:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:11:04] "GET /search?s=cargi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:11:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:11:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:11:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:11:27] "GET /search?s=корги HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:11:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:11:27] "[36mGET /uploads/images/Corgi.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:20:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:20:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:20:58] "GET /search?s=карги HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:20:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:07] "GET /search?s=корги HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:07] "[36mGET /uploads/images/Corgi.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:18] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:23] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:21:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:запрошена главная страница
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:31:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:31:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:31:23] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:31:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:31:42] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:31:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Mar/2022 12:31:42] "GET /uploads/images/Corgi.jpg HTTP/1.1" 200 -
